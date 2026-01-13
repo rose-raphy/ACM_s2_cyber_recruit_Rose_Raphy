@@ -3,7 +3,7 @@
 Description: given a photograph that has no metadata, no timestamps, no coordinates, and no filename clues.
 
 Task: 1. To identify the exact location where the photograph was taken.
-      2. To find the exact name of the place and its city of the quote.
+      2. To find the exact name of the place and its city.
 
 Image description: chandeliers made of bones, skulls arranged symmetrically, gothic vaulting, quote given- "Let conversation cease. Let laughter flee. This is the place where death delights in helping the living."
 
