@@ -25,4 +25,4 @@ Analysis:
 3. Reviewed the contents of the challenge again. 
 Final conclusion-- place name: Sedlec Ossuary, city: Kutna Hora
 
-Flag: flag{Sedlec_Ossuary_Kutna_Hora}
+Flag: flag{sedlec_ossuary_kutna_hora}
