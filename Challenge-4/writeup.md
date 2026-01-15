@@ -8,4 +8,4 @@ Analysis:
 1. Search the image in Google Lens. 
 2. Image is of Chand Baori from Rajasthan. It is a famous stepwell built for cooling rather than defense.
 
-Flag: flag{Chand_Baori|Rajasthan}
+Flag: flag{chand_baori|Rajasthan}
