@@ -19,3 +19,9 @@ And so, i tried flag{orion_tech_secret_key}
 It also didnt work. 
 
 I checked up in console as well as in Web developer tools. There is no additional instructions to these. 
+
+cd Downloads
+python3 -m venv venv (to enable python3 in a virtual environment)
+source venv/bin/activate
+python app.py 
+(do the stages)
