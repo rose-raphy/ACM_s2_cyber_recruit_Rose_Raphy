@@ -28,4 +28,6 @@ Analyzis:
 ~if and,or,substring found, browser shows "HEHE"
 
 ~$query = "select * from users where id='guest' and pw='{$_GET['pw']}'";
----
+
+
+Tried to get the password but didnt work.
